@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a5230c-2f84-40ee-9feb-b9a38cf177bf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.CodeFusion.SeleniumOne-1.0.2-javadoc.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.CodeFusion.SeleniumOne-1.0.2-sources.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.CodeFusion.SeleniumOne-1.0.2.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.CodeFusion.SeleniumOne-1.0.2.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.CodeFusion.SeleniumOne-1.0.2.pom.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/1.0.2/com.CodeFusion.SeleniumOne-1.0.2-javadoc.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/1.0.2/com.CodeFusion.SeleniumOne-1.0.2-sources.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/1.0.2/com.CodeFusion.SeleniumOne-1.0.2.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/1.0.2/com.CodeFusion.SeleniumOne-1.0.2.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/1.0.2/com.CodeFusion.SeleniumOne-1.0.2.pom.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/7edbe315063867/com/CodeFusion/SeleniumOne/com.CodeFusion.SeleniumOne/maven-metadata-nexus.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/App.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/App.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/class-use/App.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/class-use/App.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index.html" afterPath="$PROJECT_DIR$/target/apidocs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.aniketwadkar78.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.aniketwadkar78.AppTest.txt" />
-    </list>
+    <list default="true" id="d4a5230c-2f84-40ee-9feb-b9a38cf177bf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
