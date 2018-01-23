@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4a5230c-2f84-40ee-9feb-b9a38cf177bf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/.index" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-javadoc.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-sources.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.jar.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom.asc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/maven-metadata-nexus.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SeleniumOne.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com.Code.aniketwadkar78.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com.CodeFusion.SeleniumOne.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/com.CodeFusion.aniketwadkar78.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/App.html" afterPath="$PROJECT_DIR$/target/apidocs/com/github/aniketwadkar78/App.html" />
@@ -29,8 +24,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3-javadoc.jar.asc" afterPath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3-javadoc.jar.asc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3-sources.jar.asc" afterPath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3-sources.jar.asc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.jar.asc" afterPath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.jar.asc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.pom" afterPath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.pom" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.pom.asc" afterPath="$PROJECT_DIR$/target/com.github.aniketwadkar78-1.0.3.pom.asc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be.properties" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-javadoc.jar.asc" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-javadoc.jar.asc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-sources.jar.asc" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3-sources.jar.asc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.jar.asc" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.jar.asc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom.asc" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/1.0.3/com.github.aniketwadkar78-1.0.3.pom.asc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/maven-metadata-nexus.xml" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/231ed6929c31be/com/github/aniketwadkar78/com.github.aniketwadkar78/maven-metadata-nexus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.aniketwadkar78.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.github.aniketwadkar78.AppTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,11 +47,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml.versionsBackup" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml.versionsBackup">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -415,6 +429,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml.versionsBackup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

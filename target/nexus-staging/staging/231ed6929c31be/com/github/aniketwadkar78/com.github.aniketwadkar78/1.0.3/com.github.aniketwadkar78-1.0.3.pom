@@ -4,8 +4,6 @@
 
   <groupId>com.github.aniketwadkar78</groupId>
   <artifactId>com.github.aniketwadkar78</artifactId>
-  <!--<groupId>com.CodeFusion.SeleniumOne</groupId>-->
-  <!--<artifactId>com.CodeFusion.SeleniumOne</artifactId>-->
   <version>1.0.3</version>
   <packaging>jar</packaging>
 
