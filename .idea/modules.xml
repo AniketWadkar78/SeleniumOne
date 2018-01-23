@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SeleniumOne.iml" filepath="$PROJECT_DIR$/SeleniumOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.Code.aniketwadkar78.iml" filepath="$PROJECT_DIR$/com.Code.aniketwadkar78.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.CodeFusion.SeleniumOne.iml" filepath="$PROJECT_DIR$/com.CodeFusion.SeleniumOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.CodeFusion.aniketwadkar78.iml" filepath="$PROJECT_DIR$/com.CodeFusion.aniketwadkar78.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.github.aniketwadkar78.iml" filepath="$PROJECT_DIR$/com.github.aniketwadkar78.iml" />
     </modules>
   </component>

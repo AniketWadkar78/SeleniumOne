@@ -2,13 +2,15 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.aniketwadkar78</groupId>
-  <artifactId>com.github.aniketwadkar78</artifactId>
+  <!--<groupId>com.github.aniketwadkar78</groupId>-->
+  <!--<artifactId>com.github.aniketwadkar78</artifactId>-->
+  <groupId>com.CodeFusion.SeleniumOne</groupId>
+  <artifactId>com.CodeFusion.SeleniumOne</artifactId>
   <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>Selenium Library for Test Automation</name>
-  <description> Library to Publish to Maven Central </description>
+  <description> This library is a wrap on native Selenium </description>
   <url>https://github.com/AniketWadkar78/SeleniumOne</url>
 
   <properties>

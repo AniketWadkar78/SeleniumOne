@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.Code.aniketwadkar78" />
+        <module name="com.CodeFusion.aniketwadkar78" />
+        <module name="com.CodeFusion.SeleniumOne" />
         <module name="com.github.aniketwadkar78" />
         <module name="SeleniumOne" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.Code.aniketwadkar78" target="1.8" />
+      <module name="com.CodeFusion.aniketwadkar78" target="1.8" />
+      <module name="com.CodeFusion.SeleniumOne" target="1.8" />
       <module name="com.github.aniketwadkar78" target="1.8" />
       <module name="SeleniumOne" target="1.8" />
     </bytecodeTargetLevel>
