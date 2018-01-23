@@ -4,7 +4,7 @@
 
   <groupId>com.github.aniketwadkar78</groupId>
   <artifactId>com.github.aniketwadkar78</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>Selenium Library for Test Automation</name>
